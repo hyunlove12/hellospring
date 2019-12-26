@@ -38,6 +38,7 @@
 	
   </dependencies>
   
+  <!-- 서버에서 빌드할 때 필요 -->
   <build>
 		<plugins>
 			<plugin>
